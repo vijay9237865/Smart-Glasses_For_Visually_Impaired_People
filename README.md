@@ -1,4 +1,7 @@
 # Machine-learning-based-smart-glasses
+
+**Video explanation: **
+
 # ABSTRACT
 In the world of colors, It’s sad that some people can’t see because of some kind of visual impairment. So, we decided to build novel smart glasses based on a machine learning model. These glasses can be capable of recognizing the images and produce output in audio format, so that the person with the visual impairment is able to hear and visualize what is in front of them
 
@@ -22,8 +25,7 @@ In the world of colors, It’s sad that some people can’t see because of some 
 ![Screenshot 2022-05-08 151622](https://user-images.githubusercontent.com/81625376/167314700-fb84b82e-7ede-40b4-b147-b05b263f6625.png)
 
 # MODEL
-![Uploading Screenshot 2022-05-08 153502.png…]()
-
+![Screenshot 2022-05-08 153502](https://user-images.githubusercontent.com/81625376/167315000-14236367-302c-4918-be10-120df8af73af.png)
 
 # FUTURE WORK
 - We planned to include the text recognition feature to the smart glasses which can be used to read the test from the image captured by the camera.
