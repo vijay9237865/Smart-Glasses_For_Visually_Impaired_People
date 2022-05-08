@@ -22,7 +22,8 @@ In the world of colors, It’s sad that some people can’t see because of some 
 ![Screenshot 2022-05-08 151622](https://user-images.githubusercontent.com/81625376/167314700-fb84b82e-7ede-40b4-b147-b05b263f6625.png)
 
 # MODEL
-![download](https://user-images.githubusercontent.com/81625376/167314702-c3a68e53-2625-4dca-9b30-021701802b77.png)
+![Uploading Screenshot 2022-05-08 153502.png…]()
+
 
 # FUTURE WORK
 - We planned to include the text recognition feature to the smart glasses which can be used to read the test from the image captured by the camera.
