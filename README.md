@@ -1,4 +1,4 @@
-# Machine-learning-based-smart-glasses
+# Deep-learning-based-smart-glasses
 
 # Video explanation: https://youtu.be/csdE4u53GRk
 
